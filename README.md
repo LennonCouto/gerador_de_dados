@@ -5,6 +5,7 @@ Ideal para praticar **manipulação de dados, automação e trabalho com Excel u
 
 ---
 
+
 ## 🚀 Funcionalidades
 - Geração de nomes, telefones, e-mails e datas aleatórias
 - Cargos e salários compatíveis com cada departamento
@@ -13,6 +14,7 @@ Ideal para praticar **manipulação de dados, automação e trabalho com Excel u
 - Código limpo, organizado e com type hints
 
 ---
+
 
 ## 📌 Exemplo de informações geradas
 - Nome  
@@ -24,6 +26,7 @@ Ideal para praticar **manipulação de dados, automação e trabalho com Excel u
 - Data de cadastro  
 
 ---
+
 
 ## 📂 Estrutura do projeto
 ```
@@ -47,6 +50,7 @@ gerador-dados/
 ```
 ---
 
+
 ## 📊 Exemplo de saída
 Um arquivo como:
 ```
@@ -54,6 +58,7 @@ Um arquivo como:
 ```
 
 ---
+
 
 ## 📘 Tecnologias usadas
 
@@ -63,6 +68,7 @@ Um arquivo como:
 - Openpyxl
 
 ---
+
 
 ## 📎 Licença
 
