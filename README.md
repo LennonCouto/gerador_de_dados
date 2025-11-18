@@ -28,13 +28,19 @@ Ideal para praticar **manipulação de dados, automação e trabalho com Excel u
 ## 📂 Estrutura do projeto
 gerador-dados/
 │
+
 ├── src/
+
 │ └── gerador.py
 │
+
 ├── Dados_gerados/
+
 │ (arquivos Excel gerados)
 │
+
 ├── requirements.txt
+
 └── README.md
 
 ---
@@ -42,14 +48,14 @@ gerador-dados/
 ## 🛠 Como executar
 
 ### 1. Instale as dependências
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ---
 
 ## 📊 Exemplo de saída
 
 Um arquivo como:
-dados_ti_12-11-2025_17-48.xlsx
+- dados_ti_12-11-2025_17-48.xlsx
 
 ---
 
